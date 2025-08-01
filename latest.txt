@@ -1,2 +1,2 @@
-firmware_v9.bin
+firmware.v10.bin
 
