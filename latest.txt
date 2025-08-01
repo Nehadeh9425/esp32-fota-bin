@@ -1,2 +1,3 @@
-firmware.bin.ino.bin v2
+firmware.bin.ino.bin
+
 
