@@ -1,1 +1,1 @@
-firmware.v5.bin
+firmware_v7.bin
