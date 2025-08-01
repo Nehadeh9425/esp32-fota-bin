@@ -1,2 +1,2 @@
-firmware_v11.bin
+firmware_v12.bin
 
