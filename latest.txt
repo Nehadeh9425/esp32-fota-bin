@@ -1,4 +1,4 @@
-firmware_v2.bin.bin
+firmware_v3.bin.bin
 
 
 
