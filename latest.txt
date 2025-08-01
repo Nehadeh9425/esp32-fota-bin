@@ -1,2 +1,2 @@
-firmware_v12.bin
+firmware.v13.bin
 
