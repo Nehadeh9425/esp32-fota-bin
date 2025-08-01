@@ -1,2 +1,3 @@
-firmware.v13.bin
+new_firmware_v1.bin
+
 
