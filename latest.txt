@@ -1,4 +1,4 @@
-firmware_v5.bin
+firmware.v5.bin
 
 
 
